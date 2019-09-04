@@ -1,0 +1,17 @@
+baseURL = "https://lukeeckley.com/"
+languageCode = "en-us"
+title = "Luke Eckley > /dev/blog"
+theme = "hactus"
+disqusShortname = "lukeeckley-com-blog"
+
+[params]
+	name = "Luke Eckley"
+	bio = "Hello, and welcome to my thoughts..."
+	twitter = "lukeeckley"
+	iconFont = "mono-social"
+	socialIconStyle = "circle"
+
+[social]
+	twitter = "https://www.twitter.com/lukeeckley"
+	githubalt = "https://github.com/lukeeckley"
+	email = "mailto:luke@lukeeckley.com"
